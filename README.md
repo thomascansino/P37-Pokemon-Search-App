@@ -1,1 +1,1 @@
-# P37-Pokemon-Search-App
+# Pokemon-Search-App-37th Project
